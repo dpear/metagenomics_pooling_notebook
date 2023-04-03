@@ -1198,7 +1198,7 @@ def calculate_iseqnorm_pooling_volumes(plate_df,
     """
     Calculates optimal iseq normalization pooling volumes
     from a given set of parameters.
-    :param plate_df: A DataFrame with (?)
+    :param plate_df: A DataFrame with ----need to add description----
     :param normalization_column: A string indicating the column name for a
     distribution of read counts used for normalization
     :param dynamic_range: The ratio between the read counts of the
